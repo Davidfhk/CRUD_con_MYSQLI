@@ -1,0 +1,13 @@
+Crea una aplicación que permita gestionar pisos. Deben poderse
+realizar las siguientes acciones:
+• listar todos los pisos
+• mostrar los detalles de un piso
+• dar de alta un piso
+• modificar un piso
+• borrar un piso
+Los campos que debe tener cada piso son: un identificador único,
+una dirección, un precio y una descripción.
+Todas las páginas deben compartir, al menos, un pie de página
+donde figure el nombre del desarrollador de la web.
+La página principal será el listado de pisos, desde el que se podrá
+acceder al resto de páginas.
